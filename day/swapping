@@ -1,0 +1,13 @@
+#include<stdio.h> 
+
+int main() 
+{ 
+
+    const int var = 10; 
+
+    var = 15; 
+
+    printf("var = %d\n", var); 
+
+    return 0; 
+}
